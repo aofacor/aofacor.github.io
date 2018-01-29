@@ -38,3 +38,8 @@ button {
   justify-content: center;
   align-items: center;
 }
+
+.carousel  img {
+  height: 500px;
+
+  }
